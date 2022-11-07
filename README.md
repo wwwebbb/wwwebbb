@@ -4,8 +4,6 @@
 <h1><strong>Hello 👋, I'm Miles</strong></h1>
 <h3>An electrical engineer undergrad and front-end web developer. I'm currently expanding my skills with <i>React</i> and API implementation.</h3>
 
-<br>
-
 <h3><strong>My links:</strong></h3>
 <div class="links">
 <a href="https://www.linkedin.com/in/miles-webb" target="_blank" rel="noopener noreferrer">
