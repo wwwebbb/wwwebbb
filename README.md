@@ -2,7 +2,7 @@
 <body>
 
 <h1><strong>Hello 👋, I'm Miles</strong></h1>
-<h3>An electrical engineer undergrad and front-end web developer. I'm currently expanding my skills with <i>React</i> and API implementation.</h3>
+<h3>An electrical engineer undergrad and front-end web developer. I'm currently sharpening my skills with <i>React</i> and API implementation.</h3>
 
 <h3><strong>My links:</strong></h3>
 <div class="links">
