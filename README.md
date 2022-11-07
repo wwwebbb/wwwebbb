@@ -2,25 +2,22 @@
 <body>
 
 <h1>Hello, I'm Miles-</h1>
-
 <h3>I'm an electrical engineer undergrad and self-taught front-end web developer.</h3>
 <h4><em>Welcome to my GitHub!<em></h4>
 
 <br>
-<i class="devicon-linkedin-plain"></i>
-<i class="fa-brands fa-stack-overflow"></i>
 
 <div>
 <a href="https://www.linkedin.com/in/miles-webb" target="_blank" rel="noopener noreferrer">
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin-in.svg" width="50" height="50">
+<img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="50" height="50" />
 </a>
 
-<a href="https://mwportfolio.pages.dev" target="_blank" rel="noopener noreferrer">
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="50" height="50">
+<a style="margin-left: 8px" href="https://mwportfolio.pages.dev" target="_blank" rel="noopener noreferrer">
+<img alt="Portfolio Website" src="https://cdn-icons-png.flaticon.com/512/282/282100.png" width="50" height="50" />
 </a>
 
 <a href="https://stackoverflow.com/users/20170572/wwwebbb" target="_blank" rel="noopener noreferrer">
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/stack-overflow.svg" width="50" height="50">
+<img alt="Stack Overflow" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" width="50" height="50" />
 </a>
 </div>
 
