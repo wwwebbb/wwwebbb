@@ -1,10 +1,8 @@
 <html>
 <body>
 
-<div style="text-align: center">
-<h1><strong>Hello 👋, I'm Miles</strong></h1>
-<h3>An electrical engineer undergrad and front-end web developer. I'm currently expanding my skills with <i>React</i> and API implementation.</h3>
-</div>
+<h1 style="text-align: center"><strong>Hello 👋, I'm Miles</strong></h1>
+<h3 style="text-align: center">An electrical engineer undergrad and front-end web developer. I'm currently expanding my skills with <i>React</i> and API implementation.</h3>
 
 <br>
 
