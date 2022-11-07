@@ -1,27 +1,28 @@
 <html>
 <body>
 
-<h1>Hello, I'm Miles-</h1>
-<h3>I'm an electrical engineer undergrad and self-taught front-end web developer.</h3>
-<h4><em>Welcome to my GitHub!<em></h4>
-
-<br>
-
-<div>
-<a href="https://www.linkedin.com/in/miles-webb" target="_blank" rel="noopener noreferrer">
-<img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="50" height="50" />
-</a>
-
-<a style="margin-left: 8px" href="https://mwportfolio.pages.dev" target="_blank" rel="noopener noreferrer">
-<img alt="Portfolio Website" src="https://cdn-icons-png.flaticon.com/512/282/282100.png" width="50" height="50" />
-</a>
-
-<a href="https://stackoverflow.com/users/20170572/wwwebbb" target="_blank" rel="noopener noreferrer">
-<img alt="Stack Overflow" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" width="50" height="50" />
-</a>
+<div style="text-align: center">
+<h1><strong>Hello 👋, I'm Miles</strong></h1>
+<h3>An electrical engineer undergrad and front-end web developer. I'm currently expanding my skills with <i>React</i> and API implementation.</h3>
 </div>
 
 <br>
+
+<h3><strong>My links:</strong></h3>
+<div class="links">
+<a href="https://www.linkedin.com/in/miles-webb" target="_blank" rel="noopener noreferrer">
+<img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40" height="40" />
+</a>
+
+<a href="https://mwportfolio.pages.dev" target="_blank" rel="noopener noreferrer">
+<img alt="Portfolio Website" src="https://cdn-icons-png.flaticon.com/512/1017/1017466.png" width="40" height="40" />
+</a>
+
+<a href="https://stackoverflow.com/users/20170572/wwwebbb" target="_blank" rel="noopener noreferrer">
+<img alt="Stack Overflow" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" width="40" height="40" />
+</a>
+</div>
+
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wwwebbb&theme=algolia&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
