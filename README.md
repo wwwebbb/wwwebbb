@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=wwwebbb&rank=-C&no-bg=true&no-frame=true)](https://github.com/wwwebbb/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=wwwebbb&theme=algolia&rank=-C,-UNKNOWN&no-bg=true&no-frame=true)](https://github.com/wwwebbb/github-profile-trophy)
 
 <!--
 **wwwebbb/wwwebbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
