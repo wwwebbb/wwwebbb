@@ -25,7 +25,7 @@
 
 [![Miles' GitHub stats](https://github-readme-stats.vercel.app/api?username=wwwebbb&hide=prs,contribs&count_private=true&show_icons=true&theme=algolia&bg_color=90,00000000,0194DD&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=algolia&bg_color=90,00000000,0194DD&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwebbb&layout=compact&theme=algolia&bg_color=90,00000000,0194DD&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats)
 
 </body>
 </html>
