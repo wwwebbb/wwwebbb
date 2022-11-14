@@ -7,15 +7,15 @@
 <h3><strong>My links:</strong></h3>
 <div class="links">
 <a href="https://www.linkedin.com/in/miles-webb" target="_blank" rel="noopener noreferrer">
-<img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40" height="40" />
+<img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin" width="40" height="40" />
 </a>
 
 <a href="https://mwportfolio.pages.dev" target="_blank" rel="noopener noreferrer">
-<img alt="Portfolio Website" src="https://cdn-icons-png.flaticon.com/512/1017/1017466.png" width="40" height="40" />
+<img alt="Portfolio Website" src="https://cdn.simpleicons.org/WindowsTerminal/DCD7C9" width="40" height="40" />
 </a>
 
 <a href="https://stackoverflow.com/users/20170572/wwwebbb" target="_blank" rel="noopener noreferrer">
-<img alt="Stack Overflow" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" width="40" height="40" />
+<img alt="Stack Overflow" src="https://cdn.simpleicons.org/stackoverflow" width="40" height="40" />
 </a>
 </div>
 
